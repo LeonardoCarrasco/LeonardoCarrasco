@@ -2,7 +2,7 @@
 - 🧑 I’m an Argentine Student of Web Development
 - 👀 I’m interested in Full Stack Web development
 - 🌱 I’m currently learning  FrontEnd Development
-- 💞️ I’m looking to collaborate on FrontEnd projects to practice my (low) skills 
+- 💞️ I’m practicing on FrontEnd projects to practice my (low) skills 
 - 📫 How to reach me via twitter, instagram or email
 - Twitter: https://twitter.com/iLeoCarrasco
 - Instagram: https://www.instagram.com/ileocarrasco/
