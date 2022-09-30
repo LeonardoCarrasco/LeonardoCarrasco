@@ -7,6 +7,7 @@
 - Twitter: https://twitter.com/iLeoCarrasco
 - Instagram: https://www.instagram.com/ileocarrasco/
 - Email: leo07carrasco@gmail.com
+- Portfolio Personal https://leonardocarrasco.github.io/My-Portfolio/
 
 <!---
 LeonardoCarrasco/LeonardoCarrasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
