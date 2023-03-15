@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Leonardo Agustin Carrasco. I am 23 years old (26/12/1998) web development student at the Universidad del Comahue, Neuquén, Argentina. Currently looking for my first job in the world of programming. Eager to continue learning and gain experience in the field. Ambitious and able to work independently or as a team. I bring a positive attitude and the will and motivation to learn new programs.<br><br>Interests: <br>Programming 💻<br>UI Design 🎨<br>Video Games 🎮 <br>Skateboard 🛹<br>Music Production (Beatmaking) 🎹 <br>Hardware 🖥
+Hello, I am Leonardo Agustin Carrasco. I am 23 years old (26/12/1998) web development student at the Universidad del Comahue, Neuquén, Argentina. Currently looking for my first job in the world of programming. Eager to continue learning and gain experience in the field. Ambitious and able to work independently or as a team. I bring a positive attitude and the will and motivation to learn new programs.<br>
 
 
 ## 🌐 Socials:
