@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hello, I am Leonardo Agustin Carrasco. I am 23 years old (26/12/1998) web development student at the Universidad del Comahue, Neuquén, Argentina. Currently looking for my first job in the world of programming. Eager to continue learning and gain experience in the field. Ambitious and able to work independently or as a team. I bring a positive attitude and the will and motivation to learn new programs.<br>
+# ¡Hola! Soy Leo 👋
+
+Tengo 24 años, estoy aprendiendo desarrollo Front End con React. Me interesa la tecnología y los nuevos avances.
+
+Actualmente, estoy estudiando la Tecnicatura en Desarrollo Web de la Universidad del Comahue Neuquen, Arg. para mejorar mis habilidades y adquirir conocimientos más avanzados.
+
+En mi tiempo libre, me gusta experimentar con nuevas tecnologías y herramientas. También disfruto de jugar videjuegos, Producir ritmos (BeatMaking) y andar en Skate.
+
+Si estás buscando un desarrollador Front End y esté dispuesto a aprender y mejorar constantemente, ¡no dudes en contactarme! Estoy ansioso por ser parte de proyectos interesantes y desafiantes.<br>
 
 
 ## 🌐 Socials:
