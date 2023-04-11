@@ -24,6 +24,6 @@ Si estás buscando un desarrollador Front End y esté dispuesto a aprender y mej
 
 
 - Email: leo07carrasco@gmail.com
-- Portfolio Personal: https://leo-carrasco-portfolio.vercel.app/
+- Portfolio Personal: [https://leo-carrasco-portfolio.vercel.app/](https://leonardocarrasco.github.io/portfolio-2023/)
 
 
