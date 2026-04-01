@@ -11,6 +11,7 @@ Enfocado en terminar mis estudios
 Explorando desarrollo de software
 Aprendiendo SQL, Power BI y análisis de datos
 Armando proyectos propios
+
 📫 Contacto
 Email: leo07carrasco@gmail.com
 Portfolio: https://leo-carrasco-portfolio.vercel.app/
