@@ -1,10 +1,17 @@
 # ¡Hola! Soy Leo 👋
 
-Tengo 24 años, estoy aprendiendo desarrollo Front End con React. Me interesa la tecnología y los nuevos avances.
+Tengo 27 años y me interesa todo lo relacionado con la tecnología, especialmente el desarrollo de software y cómo usarlo para resolver problemas reales.
 
-Actualmente, estoy estudiando la Tecnicatura en Desarrollo Web de la Universidad del Comahue Neuquen, Arg. para mejorar mis habilidades y adquirir conocimientos más avanzados.
+Actualmente estoy estudiando la Tecnicatura en Desarrollo Web en la Universidad del Comahue.
 
-- Email: leo07carrasco@gmail.com
-- Portfolio Personal: [https://leo-carrasco-portfolio.vercel.app/](https://leonardocarrasco.github.io/portfolio-2023/)
+También me llama mucho la atención el mundo de los datos y la automatización.
 
+🌱 Actualmente
+Enfocado en terminar mis estudios
+Explorando desarrollo de software
+Aprendiendo SQL, Power BI y análisis de datos
+Armando proyectos propios
+📫 Contacto
+Email: leo07carrasco@gmail.com
+Portfolio: https://leo-carrasco-portfolio.vercel.app/
 
